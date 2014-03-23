@@ -23,7 +23,7 @@
     ],
 
     "dependencies": {
-        "request": ">=2.9.200",
+        "request": "~2.34.0",
         "diff" : ">=1.0.3"
     },
 
